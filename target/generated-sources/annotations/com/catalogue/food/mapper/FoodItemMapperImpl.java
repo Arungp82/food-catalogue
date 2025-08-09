@@ -6,7 +6,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-07-29T12:20:48+0530",
+    date = "2025-08-09T22:59:48+0530",
     comments = "version: 1.4.2.Final, compiler: javac, environment: Java 17.0.9 (Oracle Corporation)"
 )
 public class FoodItemMapperImpl implements FoodItemMapper {
